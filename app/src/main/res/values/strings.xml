@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="limpar">Limpar</string>
+    <string name="calcular">Calcular</string>
+    <string name="imc">IMC</string>
+    <string name="formula">(peso/altura²)</string>
+    <string name="intro">O IMC (Índice de Massa Corporal) é uma medida utilizada pela OMS
+        (Organização Mundial da Saúde) para medir obesidade. \n\nA obesidade e o sobrepeso são
+        fatores de risco para doenças sérias como a hipertensão arterial, diabetes, doença
+        arterial coronariana e diversas outras patologias. Portanto, é necessário realizar exames
+        periodicamente. \n\nCalcule abaixo seu IMC e verifique se você está em seu peso ideal:
+
+</string>
+    <string name="suspense">Você está...</string>
+    <string name="imagem">Imagem de resultado</string>
+    <string name="voltar">Voltar</string>
+    <string name="sexo">Sexo</string>
+    <string name="hAltura">m</string>
+    <string name="hṔeso">kg</string>
+    <string name="i1">É muito perigoso estar abaixo do peso. Que tal uma pizza?</string>
+    <string name="i2">Considere adquirir um pouco mais de massa. Repetir duas vezes no almoço não
+        tem problema!</string>
+    <string name="i3">Isso aí! Mas não quer dizer que você não deva se preocupar em manter assim...
+        Melhor prevenir do que remediar!</string>
+    <string name="i4">Cuidado! Nesse ritmo você pode acabar desenvolvendo obesidade. Se você regular
+        melhor o que você come, logo logo você estará em seu peso ideal.</string>
+    <string name="i5">Opa! Acho que você exagerou um bocado. Sua saúde é mais importante que
+        qualquer coisa. Consulte um nutricionista e um médico.</string>
+    <string name="i6">Você desenvolveu uma obesidade de nível 2, isso significa que você está
+        severamente acima do seu peso ideal. Vá a um médico urgente!</string>
+    <string name="i7">O excesso de peso é um risco para sua saúde e pode diminuir seu tempo de vida!
+        Procure um especialista, sua saúde é muito importante!</string>
+    <string-array name="sexo">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
